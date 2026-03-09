@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "price": "1000 BDT",
+    "duration": "1 Month",
+    "information": "Ideal for beginners who want to start their fitness journey.",
+    "features": [
+      "Access to gym equipment",
+      "Locker facility",
+      "Basic workout guidance",
+      "Free drinking water"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Student Plan",
+    "price": "800 BDT",
+    "duration": "1 Month",
+    "information": "Special discounted plan for students.",
+    "features": [
+      "Access to gym equipment",
+      "Cardio zone access",
+      "Locker facility",
+      "Student ID required"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Standard Plan",
+    "price": "2500 BDT",
+    "duration": "3 Months",
+    "information": "Great for members who want consistent fitness training.",
+    "features": [
+      "All Basic plan features",
+      "Cardio equipment access",
+      "Diet guideline",
+      "Weekly trainer support"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Fitness Plus Plan",
+    "price": "3500 BDT",
+    "duration": "3 Months",
+    "information": "For people who want structured workout and nutrition guidance.",
+    "features": [
+      "All Standard plan features",
+      "Group workout sessions",
+      "Body fitness tracking",
+      "Nutrition consultation"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Premium Plan",
+    "price": "4500 BDT",
+    "duration": "6 Months",
+    "information": "Best for serious fitness enthusiasts looking for professional guidance.",
+    "features": [
+      "All Fitness Plus features",
+      "Personal trainer support",
+      "Body measurement tracking",
+      "Supplement guidance"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Elite Plan",
+    "price": "8000 BDT",
+    "duration": "12 Months",
+    "information": "Complete fitness package for long-term members.",
+    "features": [
+      "All Premium plan features",
+      "24/7 gym access",
+      "Custom workout program",
+      "Monthly fitness assessment"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "VIP Plan",
+    "price": "12000 BDT",
+    "duration": "12 Months",
+    "information": "Luxury fitness experience with full personal support.",
+    "features": [
+      "Unlimited gym access",
+      "Dedicated personal trainer",
+      "Custom diet plan",
+      "Priority support",
+      "Free gym merchandise"
+    ]
+  }
+]
