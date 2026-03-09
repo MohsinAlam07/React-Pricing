@@ -30,7 +30,7 @@
     "name": "Standard Plan",
     "price": "2500 BDT",
     "duration": "3 Months",
-    "information": "Great for members who want consistent fitness training.",
+    "information": "Best for regular members who want consistent training.",
     "features": [
       "All Basic plan features",
       "Cardio equipment access",
@@ -43,7 +43,7 @@
     "name": "Fitness Plus Plan",
     "price": "3500 BDT",
     "duration": "3 Months",
-    "information": "For people who want structured workout and nutrition guidance.",
+    "information": "Structured workout and nutrition guidance.",
     "features": [
       "All Standard plan features",
       "Group workout sessions",
@@ -56,7 +56,7 @@
     "name": "Premium Plan",
     "price": "4500 BDT",
     "duration": "6 Months",
-    "information": "Best for serious fitness enthusiasts looking for professional guidance.",
+    "information": "Perfect for serious fitness enthusiasts.",
     "features": [
       "All Fitness Plus features",
       "Personal trainer support",
@@ -69,7 +69,7 @@
     "name": "Elite Plan",
     "price": "8000 BDT",
     "duration": "12 Months",
-    "information": "Complete fitness package for long-term members.",
+    "information": "Complete long-term fitness package.",
     "features": [
       "All Premium plan features",
       "24/7 gym access",
