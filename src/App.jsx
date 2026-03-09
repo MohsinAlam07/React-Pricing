@@ -5,6 +5,7 @@ import './App.css'
 import DaisyNav from './components/DaisyNav/DaisyNav'
 import Navbar from './components/Navbar/Navbar'
 import PricingOptions from './components/PricingOptions/PricingOptions'
+import ResultsChart from './components/ResultsChart/ResultsChart'
 
 
 
@@ -24,6 +25,9 @@ function App() {
       <Suspense fallback={<span className="loading loading-ring loading-xl"></span>}>
         <PricingOptions pricingPromise={pricingPromise}></PricingOptions>
       </Suspense>
+      <ResultsChart>
+        
+      </ResultsChart>
 
     </main>
     <footer>
